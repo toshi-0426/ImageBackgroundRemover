@@ -8,7 +8,6 @@ from tkinterdnd2 import DND_FILES, TkinterDnD
 
 # global variable, api key
 api_key = os.getenv("X-Api-Key")
-#api_key = "UrzshcvjVh276eGgNhZJE94V"
 
 class Application(tk.Frame):
     def __init__(self, master=None):
