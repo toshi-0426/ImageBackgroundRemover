@@ -1,10 +1,10 @@
 # Simple Image Background Remover
 This is a program that allows users to remove the background of an image from images using the remove.bg API. 
-Users can drag and drop image or select it from their file system. The processed images are then saved locally.
-This is intended to use for your id photo.
+
 
 ## Description
-
+Users can drag and drop image or select it from their file system. The processed images are then saved locally.
+This is intended to use for your id photo. I created this for learning purpose.
 
 ## Prerequisites
 - Python 3.10 or later
